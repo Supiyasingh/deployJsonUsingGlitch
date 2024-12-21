@@ -47,5 +47,37 @@
       "text": "Awesome post!",
       "postId": "5"
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "age": 28
+    },
+    {
+      "id": 2,
+      "name": "Michael Brown",
+      "email": "michael.brown@example.com",
+      "age": 34
+    },
+    {
+      "id": 3,
+      "name": "Sophia Davis",
+      "email": "sophia.davis@example.com",
+      "age": 24
+    },
+    {
+      "id": 4,
+      "name": "James Wilson",
+      "email": "james.wilson@example.com",
+      "age": 40
+    },
+    {
+      "id": 5,
+      "name": "Emma Martinez",
+      "email": "emma.martinez@example.com",
+      "age": 29
+    }
   ]
 }
