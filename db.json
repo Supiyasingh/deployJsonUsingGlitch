@@ -91,5 +91,57 @@
       "correctOption": "C",
       "reviewStatus": false
     }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "category": "Fiction",
+      "isAvailable": true,
+      "isVerified": false,
+      "borrowedDays": null,
+      "imageUrl": "https://m.media-amazon.com/images/I/71ZB18P3inL._SY522_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "category": "Comedy",
+      "isAvailable": true,
+      "isVerified": false,
+      "borrowedDays": null,
+      "imageUrl": "https://m.media-amazon.com/images/I/71ZB18P3inL._SY522_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "category": "Technical",
+      "isAvailable": false,
+      "isVerified": true,
+      "borrowedDays": 5,
+      "imageUrl": "https://m.media-amazon.com/images/I/71ZB18P3inL._SY522_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "category": "Fiction",
+      "isAvailable": true,
+      "isVerified": false,
+      "borrowedDays": null,
+      "imageUrl": "https://m.media-amazon.com/images/I/71ZB18P3inL._SY522_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Python Crash Course",
+      "author": "Eric Matthes",
+      "category": "Technical",
+      "isAvailable": false,
+      "isVerified": true,
+      "borrowedDays": 7,
+      "imageUrl": "https://m.media-amazon.com/images/I/71ZB18P3inL._SY522_.jpg"
+    }
   ]
 }
